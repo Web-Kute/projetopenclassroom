@@ -1,3 +1,7 @@
 h1 {
     font-size: clamp(2rem, 0.75rem + 4vw, 3rem);
 }
+
+header {
+    background-color: tomato;
+}
