@@ -13,3 +13,7 @@ header{
     height: 10vh;
     border: 1px solid cornflowerblue;
 }
+
+footer {
+    height: 5vh;
+}
